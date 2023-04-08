@@ -35,7 +35,7 @@ main {
 }
 
 section#hero {
-  background-image: url("./imgs/background.jpg");
+  background-image: url("background.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
